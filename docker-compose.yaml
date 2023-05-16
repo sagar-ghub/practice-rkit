@@ -21,4 +21,4 @@ services:
 
 volumes:
   mongodb-data:
-    driver: remote
+    driver: local-updated-to-remote
